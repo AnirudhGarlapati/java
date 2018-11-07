@@ -1,5 +1,5 @@
 node{
 stage ('git'){
-sh "echo 'fine'"
+sh "echo 'fine now'"
 }
 }
